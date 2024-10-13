@@ -4,3 +4,6 @@ I myself don't own such a racer, but for a friend I was already in some design p
 So I will take own of the often used rollable maps e.g. SPA and construct the assets for that track.
 Everybody can contribute.
 Any real opensource license i ok for me but it should be non commercial.
+
+
+[StartFinish Traverse](assets\StartFinish_Traverse.png)
