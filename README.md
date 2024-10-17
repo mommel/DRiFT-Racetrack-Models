@@ -7,3 +7,6 @@ Any real opensource license i ok for me but it should be non commercial.
 
 
 ![StartFinish Traverse](https://raw.githubusercontent.com/mommel/DR-FT-Racetrack-Models/refs/heads/main/assets/StartFinish_Traverse.png)
+
+
+![Pitlane](https://raw.githubusercontent.com/mommel/DR-FT-Racetrack-Models/refs/heads/main/assets/Pitlane_Parts.jpg)
