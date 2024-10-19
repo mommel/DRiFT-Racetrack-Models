@@ -12,6 +12,6 @@ Any real opensource license i ok for me but it should be non commercial.
 
 ![Pitlane](https://raw.githubusercontent.com/mommel/DR-FT-Racetrack-Models/refs/heads/main/assets/Pitlane_Parts.jpg)
 
-![Curbs](https://raw.githubusercontent.com/mommel/DRiFT-Racetrack-Models/refs/heads/main/assets/Curbs.jpg)
+![Curbs](https://raw.githubusercontent.com/mommel/DRiFT-Racetrack-Models/refs/heads/main/assets/Curbs.png)
 
 ![Rails](https://raw.githubusercontent.com/mommel/DRiFT-Racetrack-Models/refs/heads/main/assets/rails%20lower%20single.jpg)
