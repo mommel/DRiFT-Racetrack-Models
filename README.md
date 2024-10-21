@@ -4,10 +4,10 @@ I myself don't own such a racer, but for a friend I was already in some design p
 
 So I will take own of the often used rollable maps e.g. SPA and construct the assets for that track.
 Everybody can contribute.
-Any real opensource license i ok for me but it should be non commercial.
+License:[CC-BY-NC4](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## state of the Models
-[State](stage.md)
+[State]([stage.md](https://github.com/mommel/DRiFT-Racetrack-Models/blob/main/stages.md))
 
 
 ![StartFinish Traverse](https://raw.githubusercontent.com/mommel/DR-FT-Racetrack-Models/refs/heads/main/assets/StartFinish_Traverse.png)
