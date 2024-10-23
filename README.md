@@ -20,3 +20,5 @@ License:[CC-BY-NC4](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ![CarPark](https://raw.githubusercontent.com/mommel/DRiFT-Racetrack-Models/refs/heads/main/assets/Carpark.png)
 
+![Curbs No3](https://raw.githubusercontent.com/mommel/DRiFT-Racetrack-Models/refs/heads/main/assets/Curbs3.png)
+

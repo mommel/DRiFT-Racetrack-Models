@@ -8,5 +8,8 @@ pitlane  | done  | the pitlane, wall or step 360 degrees around a raised base. (
 pitlane-rails | done | first option
 carpark | done | a rough adoption of the spa pit
 start-finish traverse | done |
+curbs3  | done   | Curbs for the center turn
+
+![Positions on the map](https://raw.githubusercontent.com/mommel/DR-FT-Racetrack-Models/refs/heads/main/assets/Placements.jpg)
 
 If you have an own idea feel free to create a branch and pr.
